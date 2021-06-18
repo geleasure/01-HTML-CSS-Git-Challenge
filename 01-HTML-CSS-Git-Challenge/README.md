@@ -9,7 +9,7 @@ A website built for better search engine optimization and lead generation tactic
 * CSS
 
 ## Website
-https://geleasure.github.io/01-HTML-CSS-Git-Challenge/
+https://geleasure.github.io/01-HTML-CSS-Git-Challenge/01-HTML-CSS-Git-Challenge/
 
 ## Contributions
 Made with ❤️ by Grant Leasure
